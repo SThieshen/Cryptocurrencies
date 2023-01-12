@@ -9,8 +9,6 @@ We use the following methods for the analysis:
 - clustering cryptocurrencies using K-Means,
 - visualizing classification results with 2D and 3D scatter plots.
 <br><br>
-
-
 ## Results
 Following the preprocessing and cleaning phase we have a total of 532 tradable cryptocurrencies.
 <br><br>
