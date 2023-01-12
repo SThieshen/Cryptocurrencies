@@ -26,7 +26,7 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 ### Visualizing Cryptocurrencies Results
 #### 3D-Scatter plot with clusters
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/101305762-008c7c00-3809-11eb-9c47-95b4d582b784.png"> 
+    <img src="https://github.com/SThieshen/Cryptocurrencies/blob/main/Resources/3D_scatter_plot_clusters.png"> 
 </p>
 This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
 <br><br>
