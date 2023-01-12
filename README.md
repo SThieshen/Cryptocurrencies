@@ -9,6 +9,7 @@ We use the following methods for the analysis:
 - clustering cryptocurrencies using K-Means,
 - visualizing classification results with 2D and 3D scatter plots.
 <br><br>
+
 ## Results
 Following the preprocessing and cleaning phase we have a total of 532 tradable cryptocurrencies.
 <br><br>
@@ -17,7 +18,7 @@ Following the preprocessing and cleaning phase we have a total of 532 tradable c
 We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.\
 We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10. 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/101305766-01251280-3809-11eb-92f0-0ecb880db7fe.png"> 
+    <img src=""> 
 </p>
 The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
 <br><br>
