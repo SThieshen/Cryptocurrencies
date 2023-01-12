@@ -51,7 +51,7 @@ The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
 
 #### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/101305764-008c7c00-3809-11eb-8bd7-85bc2c8e953e.png"> 
+    <img src="https://github.com/SThieshen/Cryptocurrencies/blob/main/Resources/2D_scatter_plot_TCM_vs_TCS.png"> 
 </p>
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 <br><br>
