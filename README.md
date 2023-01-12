@@ -33,7 +33,7 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 
 #### 2D-Scatter plot with clusters
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/101305760-fff3e580-3808-11eb-9614-12a0102ed1f6.png"> 
+    <img src="https://github.com/SThieshen/Cryptocurrencies/blob/main/Resources/2D_scatter_plot_clusters.png"> 
 </p>
 This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
 <br><br>
